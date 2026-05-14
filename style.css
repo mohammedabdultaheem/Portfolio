@@ -267,6 +267,9 @@ nav .container {
     border: 1px solid rgba(212, 175, 55, 0.1);
     transition: var(--transition);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    display: block;
+    color: inherit;
 }
 
 .project-card:hover {
